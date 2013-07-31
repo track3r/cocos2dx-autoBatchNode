@@ -1,4 +1,4 @@
-cocos2dx-autoBatchNode
+cocos2dx auto batch node for isometric scenes
 ======================
 
 Automatic batching implementation for isometry scenes for cocos2dx. You dont have to 
